@@ -1,5 +1,7 @@
 # ANGULARLINKSVOTESAPP
 
+![appVotos](https://user-images.githubusercontent.com/29615549/62905811-bb9a2780-bd31-11e9-85ca-306eb3587524.jpg)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
